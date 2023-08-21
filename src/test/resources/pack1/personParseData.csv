@@ -1,0 +1,9 @@
+gender, first_name, last_name, age, expected_is_retired
+MAN,    Bob,        Seagal, 23,false
+MAN,    John,       Brown, 64,false
+MAN,    Eric,       White, 65,true
+MAN,    Mark,       Stown, 71,true
+WOMAN,  Mary,       Hart, 29,false
+WOMAN,  Anny,       Grey, 59,false
+WOMAN,  Emma,       Orange, 60,true
+WOMAN,  Eliza,      Goody, 67,true
